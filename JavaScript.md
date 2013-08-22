@@ -24,7 +24,7 @@ Tocacar: Handy reference.  Easy to follow and enough to get you going.  Some pri
 
 Tocacar: This book covers YUI2 which is obsolete. Check out the YUI3 Cookbook below instead.
 
-###[The Definitive Guide to Javascript]
+###[The Definitive Guide to Javascript](http://www.amazon.co.uk/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996)
 
 Tocacar: A beast of a book with >1,000 pages. Core, client- and server-side JavaScript covered in great detail. A sound investment.
 

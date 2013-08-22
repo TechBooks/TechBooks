@@ -1,6 +1,12 @@
 ##Contributors
 
+Please remember to add your GitHub username and link to your account here:
+
 [Tocacar](https://github.com/tocacar)
+
+-------
+
+##Books
 
 ### [Build Mobile](http://www.amazon.co.uk/Build-Mobile-Websites-Smart-Devices/dp/0987090844)
 
@@ -18,11 +24,11 @@ Tocacar: Read my review [here](http://phpwomen.org/blog/2013/03/28/book-review-m
 
 Tocacar: A brisk trot through the areas covered by the exam. Not suitable as a single resource for preparation, but to be fair it is just a guide.
 
-### [PHP Master: Write Cutting Edge Code](http://www.amazon.com/PHP-Master-Write-Cutting-Edge/dp/0987090879) by Davey Shafik, Lorna Mitchell and Matthew Turland
+### [PHP Master: Write Cutting Edge Code](http://www.amazon.com/PHP-Master-Write-Cutting-Edge/dp/0987090879)
 
-Tocacar: Read my review [here](http://phpwomen.org/blog/2012/01/10/book-review-php-master/) (tl/dr: great book for novice and intermediate, a good buy)
+Tocacar: Read my review [here](http://phpwomen.org/blog/2012/01/10/book-review-php-master/)
 
-### [PHP Objects, Patterns and Practice](http://www.apress.com/9781430229254) by Matt Zandstra
+### [PHP Objects, Patterns and Practice](http://www.apress.com/9781430229254)
 
 Tocacar: Not suitable for a total beginner, I'd say,  but ok for a promising novice ready for the next level.  Not a particularly exciting read, but has good content nevertheless. Worth persevering with.
 

@@ -1,6 +1,8 @@
-#Welcome to Tech Books
+#Welcome to Tech Books!
 
-This repo was created to help people discover which technical books they should be reading, those might want to avoid reading and everything in between.
+This repo was created to help people discover which technical books they should be reading, those they might want to avoid and everything in between.
+
+What will you read next?
 
 ##The Goal
 
@@ -18,7 +20,7 @@ Please add your books to the list in alphabetical order (make sure it isn't alre
 
     Tocacar: Great read, well written and packed full of good quality advice.  Would suit a intermediate-level developer. A must read.
 
-When adding new books, please add them in alphabetical order by book title, so people can easily find items on the list.  Include the (main) author's name as well, if you know it.  Please don't add the book a second time if it's already listed, take a moment to check and see if it's already there.
+When adding new books, please add them in alphabetical order by book title, so people can easily find items on the list.  Include a link too, if you can.  Please don't add the book a second time if it's already listed, take a moment to check and see if it's already there.
 
 ##Future
 

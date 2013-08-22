@@ -8,11 +8,17 @@ You are encouraged to submit your own reading lists, along with a short comment 
 
 ##Structure
 
-I've created a few files for different programming languages to kick things off - feel free to add more.  Add your books to each list (if it isn't already listed) then, underneath, add your name and what you thought of it, in this format:
+I've created a few files for different programming languages to kick things off - feel free to add more.  
 
-* <Real Name> (<Online Handle>, [github](https://github.com/<pagelink>)) - <Your thoughts about the book>
+At the top of the page, under the 'Contributors' heading, add your details in this format:
 
-When adding new books on the list, please add them in alphabetical order by book title, so people can easily find items on the list.  Include the (main) author's name as well, if you know it.  Please don't add the book a second time if it's already listed, take a moment to check and see if it's already there.
+    [github-username](https://github.com/<github-username>)
+
+Please add your books to the list in alphabetical order (make sure it isn't already listed) then, underneath, add your name and what you thought of it, like this:
+
+    Tocacar: Great read, well written and packed full of good quality advice.  Would suit a intermediate-level developer. A must read.
+
+When adding new books, please add them in alphabetical order by book title, so people can easily find items on the list.  Include the (main) author's name as well, if you know it.  Please don't add the book a second time if it's already listed, take a moment to check and see if it's already there.
 
 ##Future
 
